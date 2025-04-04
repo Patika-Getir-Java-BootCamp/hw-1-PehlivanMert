@@ -14,7 +14,7 @@ Başlıca NYP dillerinden bazıları şunlardır: Java, Python, C++, C#, JavaScr
 
 **2 – Interface ve Abstract class arasindaki farklar nelerdir? (Interface vs Abstract class?)**
 
-Hem `interface` hem de `abstract class`, Java'da soyutlamayı (`abstraction`) gerçekleştirmek için kullanılan mekanizmalardır. Temel farklar şunlardır:
+Hem `interface` hem de `abstract class`, Java'da soyutlamayı (`abstraction`) gerçekleştirmek için kullanılan mekanizmalardır. Temel farklar şunlardır;
 
 | Özellik                | `Abstract Class`                                             | `Interface`                                                                                    |
 | :--------------------- | :----------------------------------------------------------- | :--------------------------------------------------------------------------------------------- |
